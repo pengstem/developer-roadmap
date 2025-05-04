@@ -3,17 +3,18 @@ jsonUrl: '/jsons/roadmaps/cpp.json'
 pdfUrl: '/pdfs/roadmaps/cpp.pdf'
 order: 10
 briefTitle: 'C++'
-briefDescription: 'Step by step guide to becoming a C++ Developer in 2024'
+briefDescription: 'Step by step guide to becoming a C++ Developer in 2025'
 title: 'C++ Developer Roadmap'
-description: 'Step by step guide to becoming a C++ developer in 2024'
+description: 'Step by step guide to becoming a C++ developer in 2025'
 isNew: false
+renderer: editor
 hasTopics: true
 dimensions:
   width: 1000
-  height: 2639.34
+  height: 2975
 schema:
   headline: 'C++ Developer Roadmap'
-  description: 'Learn how to become a C++ Developer with this interactive step by step guide in 2024. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
+  description: 'Learn how to become a C++ Developer with this interactive step by step guide in 2025. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
   imageUrl: 'https://roadmap.sh/roadmaps/cpp.png'
   datePublished: '2023-06-01'
   dateModified: '2023-06-01'
